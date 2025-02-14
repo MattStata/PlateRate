@@ -8,7 +8,7 @@ PlateRate is a GUI-based tool designed to **rapidly find the best linear region*
 
 ## Overview
 
-- **Primary Goal**: Semi-automated identification of a linear portion in absorbance vs. time data e.g for assays of enzyme activity rates.
+- **Primary Goal**: Semi-automated identification of a linear portion in absorbance vs. time data representing a rate, e.g for assays of enzyme activity rates.
 - **Interactive GUI**: Lets you review and adjust the suggested region for each sample.
 - **Multi-File Workflow**: You can process multiple data columns in multiple exported Excel files in a single session.
 - **Final Output**: Combines all processed results (slope, start/end time, number of points used) into one results CSV file.
