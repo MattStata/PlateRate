@@ -1,6 +1,6 @@
 # PlateRate
 
-PlateRate is a GUI-based tool designed to **rapidly find the best linear region** for rate calculations in kinetic data exported from a Thermo Scientific Varioskan Lux plate reader. It can **automatically** detect the region of highest linearity for each sample, or allow the user to **override** that region interactively.
+PlateRate is a GUI-based tool designed to **rapidly find the best linear region** for rate calculations in kinetic data exported from a Thermo Scientific Varioskan Lux plate reader. It **automatically** attempts to find the best linear region of data corresponding to the rate, then allows the user to refine or change that region interactively.
 
 ---
 
